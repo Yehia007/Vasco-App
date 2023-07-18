@@ -1,6 +1,7 @@
 # Web App Overview
 
 This document gives an overview of our Web App and its various pages. The pages are designed to provide a user-friendly interface, and each page serves a specific purpose.
+This application operates on a credit-based system, meaning users' access to certain functionalities is determined by their subscription plan and remaining credits. 
 
 ## Navbar Pages
 
@@ -13,6 +14,7 @@ The Dashboard displays usage statistics, giving insights into app performance.
 ![Dashboard](./02-Dashboard.png)
 
 ### 3. Contacts
+Before using the 'Lead Search' or 'Prospect Finder' features, users must first create a list. This requirement is important to note in the functionality development of these features.
 This page stores all user's saved data, including 'My Contacts' and 'My Lists'. Data can be added by unlocking it from the Lead Search & Prospect Finder sections.
 ![Contacts](./03-Contacts.png)
 

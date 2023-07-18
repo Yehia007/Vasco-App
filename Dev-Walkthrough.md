@@ -54,3 +54,12 @@ This is the section to upload your CSV file to verify or enrich data, or to push
 - Phone Number Validation (API)
 - TCP Litigator Check
 - SEO Analysis (API)
+
+
+# Note to Developers
+
+Please bear in mind that this document is intended to be a conceptual blueprint to guide the development of the application. It describes the general functionality and requirements for each section. However, it is not meant to dictate the exact user interface design. Developers should use their discretion to create an effective and user-friendly interface while maintaining the core functionalities described in this document.
+
+
+
+

@@ -14,7 +14,7 @@ The Dashboard displays usage statistics, giving insights into app performance.
 ![Dashboard](./02-Dashboard.png)
 
 ### 3. Contacts
-Before using the 'Lead Search' or 'Prospect Finder' features, users must first create a list. This requirement is important to note in the functionality development of these features.
+Users need to create a list first to better oragnize their data and contacts before using the 'Lead Search' or 'Prospect Finder' features.
 This page stores all user's saved data, including 'My Contacts' and 'My Lists'. Data can be added by unlocking it from the Lead Search & Prospect Finder sections.
 ![Contacts](./03-Contacts.png)
 
